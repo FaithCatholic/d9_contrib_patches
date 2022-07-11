@@ -1,7 +1,7 @@
-diff --git a/domain/src/ContextProvider/CurrentDomainContext.php b/domain/src/ContextProvider/CurrentDomainContext.php
+diff --git a/domain/domain/src/ContextProvider/CurrentDomainContext.php b/domain/domain/src/ContextProvider/CurrentDomainContext.php
 index 51cb962..09081e1 100644
---- a/domain/src/ContextProvider/CurrentDomainContext.php
-+++ b/domain/src/ContextProvider/CurrentDomainContext.php
+--- a/domain/domain/src/ContextProvider/CurrentDomainContext.php
++++ b/domain/domain/src/ContextProvider/CurrentDomainContext.php
 @@ -2,12 +2,13 @@
  
  namespace Drupal\domain\ContextProvider;
